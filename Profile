@@ -25,22 +25,23 @@ I am a **UI/UX Designer** and **Python Developer** with expertise in various lan
 ### 📊 My Progress
 
 ```mermaid
-graph LR
-    A[Languages and Frameworks] --> B(Python)
-    A --> C(Flutter)
-    A --> D(HTML)
-    A --> E(CSS)
-    A --> F(JavaScript)
-    G[Software] --> H(VS Code)
-    G --> I(Xcode)
-    G --> J(Adobe XD)
-    G --> K(Figma)
-    style B fill:#3776AB,stroke:#000,stroke-width:2px;
-    style C fill:#02569B,stroke:#000,stroke-width:2px;
-    style D fill:#E34F26,stroke:#000,stroke-width:2px;
-    style E fill:#1572B6,stroke:#000,stroke-width:2px;
-    style F fill:#F7DF1E,stroke:#000,stroke-width:2px;
-    style H fill:#007ACC,stroke:#000,stroke-width:2px;
-    style I fill:#1575F9,stroke:#000,stroke-width:2px;
-    style J fill:#FF61F6,stroke:#000,stroke-width:2px;
-    style K fill:#F24E1E,stroke:#000,stroke-width:2px;
+graph TD
+    Languages --> Python
+    Languages --> Flutter
+    Languages --> HTML
+    Languages --> CSS
+    Languages --> JavaScript
+    Software --> VS_Code
+    Software --> Xcode
+    Software --> Adobe_XD
+    Software --> Figma
+
+    style Python fill:#3776AB,stroke:#000,stroke-width:2px;
+    style Flutter fill:#02569B,stroke:#000,stroke-width:2px;
+    style HTML fill:#E34F26,stroke:#000,stroke-width:2px;
+    style CSS fill:#1572B6,stroke:#000,stroke-width:2px;
+    style JavaScript fill:#F7DF1E,stroke:#000,stroke-width:2px;
+    style VS_Code fill:#007ACC,stroke:#000,stroke-width:2px;
+    style Xcode fill:#1575F9,stroke:#000,stroke-width:2px;
+    style Adobe_XD fill:#FF61F6,stroke:#000,stroke-width:2px;
+    style Figma fill:#F24E1E,stroke:#000,stroke-width:2px;
