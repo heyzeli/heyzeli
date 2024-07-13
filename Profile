@@ -1,0 +1,46 @@
+# Muzammil Shoukat
+
+![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
+![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)
+
+## Hi there 👋
+
+I am a **UI/UX Designer** and **Python Developer** with expertise in various languages, frameworks, and software. Here’s a visual representation of my skills and progress.
+
+### 🛠 Languages and Frameworks
+
+- **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- **Flutter** ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+- **HTML** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+- **CSS** ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🖥 Software
+
+- **VS Code** ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- **Xcode** ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
+- **Adobe XD** ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
+- **Figma** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+### 📊 My Progress
+
+```mermaid
+graph LR
+    A[Languages and Frameworks] --> B(Python)
+    A --> C(Flutter)
+    A --> D(HTML)
+    A --> E(CSS)
+    A --> F(JavaScript)
+    G[Software] --> H(VS Code)
+    G --> I(Xcode)
+    G --> J(Adobe XD)
+    G --> K(Figma)
+    style B fill:#3776AB,stroke:#000,stroke-width:2px;
+    style C fill:#02569B,stroke:#000,stroke-width:2px;
+    style D fill:#E34F26,stroke:#000,stroke-width:2px;
+    style E fill:#1572B6,stroke:#000,stroke-width:2px;
+    style F fill:#F7DF1E,stroke:#000,stroke-width:2px;
+    style H fill:#007ACC,stroke:#000,stroke-width:2px;
+    style I fill:#1575F9,stroke:#000,stroke-width:2px;
+    style J fill:#FF61F6,stroke:#000,stroke-width:2px;
+    style K fill:#F24E1E,stroke:#000,stroke-width:2px;
